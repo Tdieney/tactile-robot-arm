@@ -1,0 +1,4 @@
+MyArray.c:10:10:xMyArrayCreate	24	static
+MyArray.c:25:6:vMyArrayDelete	8	static
+MyArray.c:30:10:eMyArraySplit	64	static
+MyArray.c:50:10:uMyArrayFindMax	0	static
