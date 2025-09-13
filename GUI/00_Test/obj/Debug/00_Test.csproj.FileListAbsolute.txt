@@ -1,0 +1,41 @@
+E:\Graduate Project\C#\Test\00_Test\00_Test\bin\Debug\00_Test.exe.config
+E:\Graduate Project\C#\Test\00_Test\00_Test\bin\Debug\00_Test.exe
+E:\Graduate Project\C#\Test\00_Test\00_Test\bin\Debug\00_Test.pdb
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.LogForm.resources
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.MainForm.resources
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.Properties.Resources.resources
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.SerialForm.resources
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.GenerateResource.cache
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.CoreCompileInputs.cache
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\00_Test.exe
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\00_Test.pdb
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.FingerControlForm.resources
+E:\Graduate Project\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.AssemblyReference.cache
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\00_Test.exe.config
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\00_Test.exe
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\00_Test.pdb
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Charting.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Charting.WinForms.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Common.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Gauges.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Gauges.WinForms.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Licensing.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Pdf.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Scripting.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Svg.dll
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Charting.xml
+E:\GraduateProject\C#\Test\00_Test\00_Test\bin\Debug\MindFusion.Charting.WinForms.xml
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.AssemblyReference.cache
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.SuggestedBindingRedirects.cache
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.DetectObjectForm.resources
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.MatrixForm.resources
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.HandForm.resources
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.MainForm.resources
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.Properties.Resources.resources
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\_00_Test.ServoControlForm.resources
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.GenerateResource.cache
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.CoreCompileInputs.cache
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.csproj.CopyComplete
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.exe
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\00_Test.pdb
+E:\GraduateProject\C#\Test\00_Test\00_Test\obj\Debug\DateTimeSeries.LineChartForm.resources
