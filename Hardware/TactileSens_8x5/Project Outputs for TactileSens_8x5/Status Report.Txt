@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TactileSens_8x5.PrjPcb]
+   Generated File[TactileSens_8x5.TXT]
+   Generated File[TactileSens_8x5.LDP]
+   Generated File[TactileSens_8x5.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:16:25 AM On 5/7/2022

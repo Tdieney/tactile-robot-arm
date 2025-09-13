@@ -1,0 +1,26 @@
+Added Component: Designator=C9(Header3)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SK-22D07)
+Added Component: Designator=U3(MPU-6050)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_3 Pin=C9-3
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Pin To Net: NetName=NetC9_3 Pin=SW1-3
+Added Pin To Net: NetName=VCC Pin=SW1-5
+Added Pin To Net: NetName=NetC9_3 Pin=SW1-6
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=PB8_SCL Pin=U3-3
+Added Pin To Net: NetName=PB9_SDA Pin=U3-4
+Added Member To Class: ClassName=3FingerRobotV2 Member=Component C9 Header3
+Added Member To Class: ClassName=3FingerRobotV2 Member=Component SW1 SW
+Added Member To Class: ClassName=3FingerRobotV2 Member=Component U3 MPU6050
+Added Room: Name=3FingerRobotV2

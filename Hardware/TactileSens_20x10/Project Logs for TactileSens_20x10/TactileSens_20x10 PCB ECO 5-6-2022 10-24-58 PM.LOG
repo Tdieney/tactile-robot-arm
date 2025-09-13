@@ -1,0 +1,82 @@
+Added Component: Designator=C?(JP10-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613010143121"; VariantName = "[No Variations]"
+Added Component: Designator=C?(JP20-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613020143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COL1 Pin=C?-1
+Added Net: Name=COL1
+Added Pin To Net: NetName=COL2 Pin=C?-2
+Added Net: Name=COL2
+Added Pin To Net: NetName=COL3 Pin=C?-3
+Added Net: Name=COL3
+Added Pin To Net: NetName=COL4 Pin=C?-4
+Added Net: Name=COL4
+Added Pin To Net: NetName=COL5 Pin=C?-5
+Added Net: Name=COL5
+Added Pin To Net: NetName=COL6 Pin=C?-6
+Added Net: Name=COL6
+Added Pin To Net: NetName=COL7 Pin=C?-7
+Added Net: Name=COL7
+Added Pin To Net: NetName=COL8 Pin=C?-8
+Added Net: Name=COL8
+Added Pin To Net: NetName=COL9 Pin=C?-9
+Added Net: Name=COL9
+Added Pin To Net: NetName=COL10 Pin=C?-10
+Added Net: Name=COL10
+Added Pin To Net: NetName=COL11 Pin=C?-11
+Added Net: Name=COL11
+Added Pin To Net: NetName=COL12 Pin=C?-12
+Added Net: Name=COL12
+Added Pin To Net: NetName=COL13 Pin=C?-13
+Added Net: Name=COL13
+Added Pin To Net: NetName=COL14 Pin=C?-14
+Added Net: Name=COL14
+Added Pin To Net: NetName=COL15 Pin=C?-15
+Added Net: Name=COL15
+Added Pin To Net: NetName=COL16 Pin=C?-16
+Added Net: Name=COL16
+Added Pin To Net: NetName=COL17 Pin=C?-17
+Added Net: Name=COL17
+Added Pin To Net: NetName=COL18 Pin=C?-18
+Added Net: Name=COL18
+Added Pin To Net: NetName=COL19 Pin=C?-19
+Added Net: Name=COL19
+Added Pin To Net: NetName=COL20 Pin=C?-20
+Added Net: Name=COL20
+Added Pin To Net: NetName=ROW1 Pin=C?-1
+Added Net: Name=ROW1
+Added Pin To Net: NetName=ROW2 Pin=C?-2
+Added Net: Name=ROW2
+Added Pin To Net: NetName=ROW3 Pin=C?-3
+Added Net: Name=ROW3
+Added Pin To Net: NetName=ROW4 Pin=C?-4
+Added Net: Name=ROW4
+Added Pin To Net: NetName=ROW5 Pin=C?-5
+Added Net: Name=ROW5
+Added Pin To Net: NetName=ROW6 Pin=C?-6
+Added Net: Name=ROW6
+Added Pin To Net: NetName=ROW7 Pin=C?-7
+Added Net: Name=ROW7
+Added Pin To Net: NetName=ROW8 Pin=C?-8
+Added Net: Name=ROW8
+Added Pin To Net: NetName=ROW9 Pin=C?-9
+Added Net: Name=ROW9
+Added Pin To Net: NetName=ROW10 Pin=C?-10
+Added Net: Name=ROW10
+Added Class: Name=TactileSens_20x10
+Added Room: Name=TactileSens_20x10

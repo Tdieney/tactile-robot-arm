@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VCC Pin=U2-2
+Removed Pin From Net: NetName=VCC Pin=U2-3
+Removed Pin From Net: NetName=VCC Pin=U3-2
+Removed Pin From Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=VM Pin=U2-2
+Added Pin To Net: NetName=VM Pin=U2-3
+Added Pin To Net: NetName=VM Pin=U3-2
+Added Pin To Net: NetName=VM Pin=U3-3
+Added Pin To Net: NetName=IA1 Pin=P?-6
+Added Pin To Net: NetName=IA1 Pin=R1-1
+Added Pin To Net: NetName=IA1 Pin=U1-6
+Added Net: Name=IA1
+Added Pin To Net: NetName=IA2 Pin=P?-4
+Added Pin To Net: NetName=IA2 Pin=R3-1
+Added Pin To Net: NetName=IA2 Pin=U2-6
+Added Net: Name=IA2
+Added Pin To Net: NetName=IA3 Pin=P?-2
+Added Pin To Net: NetName=IA3 Pin=R5-1
+Added Pin To Net: NetName=IA3 Pin=U3-6
+Added Net: Name=IA3
+Added Pin To Net: NetName=IB1 Pin=P?-7
+Added Pin To Net: NetName=IB1 Pin=R2-1
+Added Pin To Net: NetName=IB1 Pin=U1-7
+Added Net: Name=IB1
+Added Pin To Net: NetName=IB2 Pin=P?-5
+Added Pin To Net: NetName=IB2 Pin=R4-1
+Added Pin To Net: NetName=IB2 Pin=U2-7
+Added Net: Name=IB2
+Added Pin To Net: NetName=IB3 Pin=P?-3
+Added Pin To Net: NetName=IB3 Pin=R6-1
+Added Pin To Net: NetName=IB3 Pin=U3-7
+Added Net: Name=IB3
+Added Room: Name=TestServoCircuit

@@ -1,0 +1,11 @@
+Added Component: Designator=U3(DIP8)
+Added Pin To Net: NetName=PWM5 Pin=U3-1
+Added Pin To Net: NetName=VCC Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=PWM6 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=IA3 Pin=U3-6
+Added Pin To Net: NetName=IB3 Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Member To Class: ClassName=TestServoCircuit Member=Component U3 L9110
+Added Room: Name=TestServoCircuit

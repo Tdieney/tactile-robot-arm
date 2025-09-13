@@ -1,0 +1,31 @@
+Added Component: Designator=*(JP5)
+Added Component: Designator=JP?(JP8)
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COL1 Pin=*-1
+Added Net: Name=COL1
+Added Pin To Net: NetName=COL2 Pin=*-2
+Added Net: Name=COL2
+Added Pin To Net: NetName=COL3 Pin=*-3
+Added Net: Name=COL3
+Added Pin To Net: NetName=COL4 Pin=*-4
+Added Net: Name=COL4
+Added Pin To Net: NetName=COL5 Pin=*-5
+Added Net: Name=COL5
+Added Pin To Net: NetName=ROW1 Pin=JP?-1
+Added Net: Name=ROW1
+Added Pin To Net: NetName=ROW2 Pin=JP?-2
+Added Net: Name=ROW2
+Added Pin To Net: NetName=ROW3 Pin=JP?-3
+Added Net: Name=ROW3
+Added Pin To Net: NetName=ROW4 Pin=JP?-4
+Added Net: Name=ROW4
+Added Pin To Net: NetName=ROW5 Pin=JP?-5
+Added Net: Name=ROW5
+Added Pin To Net: NetName=ROW6 Pin=JP?-6
+Added Net: Name=ROW6
+Added Pin To Net: NetName=ROW7 Pin=JP?-7
+Added Net: Name=ROW7
+Added Pin To Net: NetName=ROW8 Pin=JP?-8
+Added Net: Name=ROW8
+Added Class: Name=TactileSens_8x5
+Added Room: Name=TactileSens_8x5

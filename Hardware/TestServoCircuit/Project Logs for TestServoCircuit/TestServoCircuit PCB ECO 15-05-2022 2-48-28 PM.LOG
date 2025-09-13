@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=IA3 Pin=P?-2
+Removed Pin From Net: NetName=IB3 Pin=P?-3
+Removed Pin From Net: NetName=IA2 Pin=P?-4
+Removed Pin From Net: NetName=IB2 Pin=P?-5
+Removed Pin From Net: NetName=IA1 Pin=P?-6
+Removed Pin From Net: NetName=IB1 Pin=P?-7
+Added Pin To Net: NetName=IB3 Pin=P?-2
+Added Pin To Net: NetName=IA3 Pin=P?-3
+Added Pin To Net: NetName=IB2 Pin=P?-4
+Added Pin To Net: NetName=IA2 Pin=P?-5
+Added Pin To Net: NetName=IB1 Pin=P?-6
+Added Pin To Net: NetName=IA1 Pin=P?-7
+Added Room: Name=TestServoCircuit
